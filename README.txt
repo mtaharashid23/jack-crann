@@ -19,7 +19,7 @@ Jack-Crann-Author-Website/
 ├── js/
 │   └── main.js         (Main JavaScript)
 └── images/             (Image folder - add your images here)
-    ├── jack-crann.png
+    ├── jack-crann.jpg
     ├── book-cover.jpeg
     └── book-back-cover.jpeg
 
@@ -27,7 +27,7 @@ SETUP INSTRUCTIONS
 ------------------
 1. Extract the ZIP folder
 2. Add your images to the /images/ folder:
-   - jack-crann.png       (Jack's professional photo)
+   - jack-crann.jpg       (Jack's professional photo)
    - book-cover.jpeg       (Front cover of The Affection Connection)
    - book-back-cover.jpeg  (Back cover of The Affection Connection)
 3. Open index.html in any modern browser
